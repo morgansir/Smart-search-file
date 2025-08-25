@@ -83,6 +83,8 @@
 
 ---
 
+
+
 ## ⚙️ طريقة الاستخدام
 
 1. افتح lastupdate.py.
@@ -114,6 +116,14 @@ Python 3.7+
 pip install tabulate
 
 
+
+
+
+
+<img width="1920" height="1080" alt="‏‏لقطة الشاشة (16)" src="https://github.com/user-attachments/assets/f66f92ac-2542-430e-b97e-965beec004f6" />
+
+<img width="1920" height="1080" alt="‏‏لقطة الشاشة (3)" src="https://github.com/user-attachments/assets/ddfd3d19-ebe5-4f9d-baa1-263618d250a1" />
+<img width="1920" height="1080" alt="‏‏لقطة الشاشة (303)" src="https://github.com/user-attachments/assets/0f8e57ee-a944-47a9-bdc1-e56922644baf" />
 
 
 
